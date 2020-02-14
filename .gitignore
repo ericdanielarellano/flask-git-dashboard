@@ -97,3 +97,7 @@ deploy/*.retry
 credentials/fsg.pem
 dump.rdb
 Dockerfile
+
+
+.idea
+
